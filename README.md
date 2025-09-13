@@ -1,4 +1,4 @@
-# 👋 Hi, I'm AleLodetti
+# 👋 Hi, I'm Alessandro Lodetti
 
 **Computer Science Engineer Student | Advocate for Free Software**
 
@@ -39,14 +39,6 @@ I'm a passionate Computer Science Engineering student, focused on solving comple
 
 - [VinylCollection](https://github.com/AleLodetti/VinylCollection)  
   _A JavaFX/JPA-based chill project for managing vinyl records._
-
----
-
-## 💬 Philosophy
-
-> "Software should be free."
-
-I believe in open source, collaboration, and the power of community-driven development.
 
 ---
 
