@@ -11,7 +11,7 @@ I am a Computer Science Engineering student with a strong focus on Artificial In
 ## My skills
 * **Core Languages:** Python, Java, C, and C#. Anyway I can easily adapt and learn or master a new language 
 * **AI & Machine Learning:** PyTorch, Computer Vision, Large Language Models (LLMs), Adversarial Dataset Testing (see [guardrail](https://github.com/AleLodetti/Guardrails) project)
-* **Software Engineering:** Algorithm Optimization, JPA, JavaFX, and software for distributed systems such as Apache Kafka, Akka, MPI, Apache Spark and ContikiNG
+* **Software Engineering:** Algorithm Optimization, JPA, JavaFX, and software for distributed systems such as Apache Kafka, Akka, MPI, Apache Spark and ContikiNG. Furthermore, I try to use good programming pattern when I have the occasion.
 
 ## Featured Projects
 * **[ANNDL: Architectural Evaluation](https://github.com/AleLodetti/AN2DL_Leuven)**: An empirical evaluation of foundational deep learning architectures and a from-scratch implementation of a Generative Diffusion Model. The project mathematically models forward Markovian noising and reverse denoising processes, completed under the academic supervision of Prof. Suykens.
