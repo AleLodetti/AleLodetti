@@ -8,7 +8,7 @@ I am a Computer Science Engineering student with a strong focus on Artificial In
 * **Background:** Bachelor's degree in Computer Science Engineering, graduated with maximum honors (110 *cum laude*).
 * **Future Outlook:** Aiming to pursue a PhD in AI
 
-## Technical Arsenal
+## My skills
 * **Core Languages:** Python, Java, C, and C#. Anyway I can easily adapt and learn or master a new language 
 * **AI & Machine Learning:** PyTorch, Computer Vision, Large Language Models (LLMs), Adversarial Dataset Testing (see [guardrail](https://github.com/AleLodetti/Guardrails) project)
 * **Software Engineering:** Algorithm Optimization, Cryptography, JPA, JavaFX
