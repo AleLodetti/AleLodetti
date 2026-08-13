@@ -1,53 +1,32 @@
-# 👋 Hi, I'm Alessandro Lodetti
+# Alessandro Lodetti
+**Computer Science Engineer | Deep Learning & Computer Vision**
 
-**Computer Science Engineer Student | Advocate for Free Software**
+I am a Computer Science Engineering student with a strong focus on Artificial Intelligence. I am deeply driven by the challenge of solving complex AI problems where mathematics and statistics play a crucial role, allowing for the design of robust architectures and the optimization of advanced algorithms.
 
----
+## Academic & Professional Trajectory
+* **Currently:** Pursuing an English-taught Master's degree in Computer Science at Politecnico di Milano (expected graduation: July 2027).
+* **Background:** Bachelor's degree in Computer Science Engineering, graduated with maximum honors (110 *cum laude*).
+* **Future Outlook:** Aiming to pursue a PhD in AI
 
-## 🚀 About Me
+## Technical Arsenal
+* **Core Languages:** Python, Java, C, and C#. Anyway I can easily adapt and learn or master a new language 
+* **AI & Machine Learning:** PyTorch, Computer Vision, Large Language Models (LLMs), Adversarial Dataset Testing (see [guardrail](https://github.com/AleLodetti/Guardrails) project)
+* **Software Engineering:** Algorithm Optimization, Cryptography, JPA, JavaFX
 
-I'm a passionate Computer Science Engineering student, focused on solving complex problems and building innovative software. I believe software should be free and accessible to all, and I strive to create projects that empower users and developers alike.
+## Featured Projects
+* **[ANNDL: Architectural Evaluation](https://github.com/AleLodetti/AN2DL_Leuven)**: An empirical evaluation of foundational deep learning architectures and a from-scratch implementation of a Generative Diffusion Model. The project mathematically models forward Markovian noising and reverse denoising processes, completed under the academic supervision of Prof. Suykens.
+* **[Cloud Intelligent Travel Planner](https://github.com/AleLodetti/MultiAgentsSystem)**: A cloud-native travel orchestration system developed in C# utilizing the Semantic Kernel framework. The architecture implements Agent-to-Agent (A2A) communication and integrates the Model Context Protocol (MCP) to resolve complex, multi-step routing, planning, and scheduling tasks.
+* **[optimized_algorithm](https://github.com/AleLodetti/optimized_algorithm)**: Advanced algorithmic implementations focusing on efficiency, complexity reduction, and data structure management for performance-critical applications.
+* **[Guardrails](https://github.com/AleLodetti/Guardrails)**: Testing LLMs and evaluating adversarial datasets utilizing HuggingFace and Guardrails to ensure robust and safe AI models.
+* **[VinylCollection](https://github.com/AleLodetti/VinylCollection)**: A JavaFX and JPA-based desktop application developed for managing and cataloging vinyl record collections.
 
-- 🎓 Graduated with maximum honors (110 cum laude) in my Bachelor's
-- 🛡️ Advocate for open source and ethical tech
-- 🤺 Fencer & 🎾 Tennis player
+## Beyond the Screen
+When I am not training neural networks or tackling statistical models, you can find me practicing fencing or warming up with an offensive-style game of table tennis.
 
----
-
-## 🧑‍💻 Skills & Tech Stack
-
-- **Languages:** Java, C, Python
-- **Frameworks:** PyTorch (Machine Learning, Artificial Neural Networks), JPA, JavaFX
-- **Specialties:** Algorithm Optimization, LLMs, Adversarial Dataset Testing
-
----
-
-## 🏅 Achievements
-
-- Bachelor's graduation with maximum grade (110 cum laude)
-- Ongoing projects and research in AI, optimization, and ethical software
-
----
-
-## 🌟 Featured Projects
-
-- [optimized_algorithm](https://github.com/AleLodetti/optimized_algorithm)  
-  _Advanced algorithm optimization techniques for performance-critical applications._
-
-- [Guardrails](https://github.com/AleLodetti/Guardrails)  
-  _Testing LLMs and adversarial datasets with HuggingFace and Guardrails for robust AI._
-
-- [VinylCollection](https://github.com/AleLodetti/VinylCollection)  
-  _A JavaFX/JPA-based chill project for managing vinyl records._
-
----
-
-## 🔗 Find Me Online
-
-<!-- Add your LinkedIn / Twitter / Personal Website below -->
-- [GitHub](https://github.com/AleLodetti)
-- [LinkedIn](YOUR-LINKEDIN-HERE)
-
+## Let's Connect
+* [LinkedIn](linkedin.com/in/alessandro-lodetti-8a131625a)
+* [GitHub](https://github.com/AleLodetti)
+  
 ---
 
 <!-- Neutral blue accent: -->
